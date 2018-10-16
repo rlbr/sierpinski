@@ -105,3 +105,4 @@ venv.bak/
 *.png
 /private.txt
 /test_*.py
+*.txt

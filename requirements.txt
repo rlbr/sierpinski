@@ -1,2 +1,4 @@
 PIL
+scipy
 psutil
+numpy
