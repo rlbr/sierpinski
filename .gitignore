@@ -102,4 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+*.png
 /private.txt
+/test_*.py
